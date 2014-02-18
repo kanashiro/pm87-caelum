@@ -8,6 +8,7 @@ namespace pm87_caelum
 {
     public class Teste
     {
+        // gordinho
         public static void Main(string[] args)
         {
             Console.WriteLine("Exemplo de teste de uso git.");
